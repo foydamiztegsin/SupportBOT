@@ -10,6 +10,8 @@ Telegramda  aiogram orqali  bot tuzish uchun shablon
   Your browser does not support the video tag.
 </video>
 
+<video src='mp4/1.mp4' width=180/>
+
 
 
 # adminlar(operatorlar) bilan */support_call* comandasi orqali xabar yuborish
