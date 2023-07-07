@@ -5,7 +5,7 @@ Telegramda  aiogram orqali  bot tuzish uchun shablon
 
 # adminlar(operatorlar) bilan */support* comandasi orqali xabar yuborish
 
-[![Video Tavsifi](mp4/1.mp4)](mp4/1.mp4)
+![Video Tavsifi](mp4/1.mp4)
 
 
 # adminlar(operatorlar) bilan */support_call* comandasi orqali xabar yuborish
