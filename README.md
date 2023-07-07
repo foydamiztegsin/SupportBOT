@@ -4,7 +4,7 @@ Telegramda  aiogram orqali  bot tuzish uchun shablon
 # Bot manzili  >>> [FullSupportBot](https://t.me/fullsupport_bot)
 
 <hr>
-- adminlar(operatorlar) bilan **/support** comandasi orqali xabar yuborish
+- adminlar(operatorlar) bilan __/support__ comandasi orqali xabar yuborish
 
 [1.webm](https://github.com/foydamiztegsin/SupportBOT/assets/121927950/5cb68b1a-c10f-417b-a056-fa66ff6c57d2)
 
